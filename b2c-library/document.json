@@ -46,7 +46,8 @@
     "version": 130
   },
   "pages": [
-    "Page 1"
+    "Page 1",
+    "Symbols"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
