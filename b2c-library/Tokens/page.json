@@ -44,8 +44,8 @@
       "id": "3C3236EC-FDE6-4DAB-A7E5-62035695931C"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Tokens",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
