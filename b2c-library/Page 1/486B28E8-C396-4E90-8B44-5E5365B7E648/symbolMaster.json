@@ -1,8 +1,17 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 13,
   "clippingMaskMode": 0,
-  "do_objectID": "B53E8EAB-2D22-403A-BB15-F9D6DB2CA02A",
+  "do_objectID": "486B28E8-C396-4E90-8B44-5E5365B7E648",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,16 +23,17 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 415,
+    "y": 821
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -31,61 +41,33 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "211F28A9-0E0F-411F-8528-ADA90C53902C"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "E49BD12C-97F2-493C-867F-747EA60CBC1F"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "1604484E-7CAE-406C-85CF-35BAF9B4CF5C"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "11E578DB-94A7-4833-88A5-4BCCFBE7E373"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "68C8018C-78B2-4F7E-9E65-82F097E5162B"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "17046075-7FD2-4B4D-8656-139D8F3E7253"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "1A06271D-2BB0-4E97-9F1A-E5E2E6613492"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "CAB96E57-A59E-4717-924B-8418D0C9A4FA"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "486B28E8-C396-4E90-8B44-5E5365B7E648"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "3BE4C76F-87C5-4297-B922-CA09186F1C2F"
+      "class": "rectangle",
+      "id": "EC7203C5-FEB6-4EE3-A387-EF71E13E6A9B"
     }
   ],
-  "name": "Page 1",
+  "name": "Color/Shade-20",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -120,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3196857A-DA2E-4E50-816F-EB46E9A96456",
+    "do_objectID": "17850117-0A00-43BC-91A0-114872A28D61",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -132,6 +114,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "DA8067EE-FFE7-4B27-889A-D8CBED53232B",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
